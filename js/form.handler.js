@@ -1,13 +1,5 @@
-/**
- * Created with JetBrains PhpStorm.
- * User: Sushant
- * Date: 7/28/13
- * Time: 6:52 PM
- * To change this template use File | Settings | File Templates.
- */
-
 /*
- * Requires JQuery core and jQuery QTip and jQuery History
+ * Requires jQuery core, jQuery UI, jQuery QTip and jQuery History
  *
  * The parameter form_node can be a jQuery node or a jQuery selector string
  *
